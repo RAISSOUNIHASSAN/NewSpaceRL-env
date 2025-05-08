@@ -1,0 +1,17 @@
+# Byte-compiled / optimized
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+venv/
+.venv/
+
+# IDEs
+.vscode/
+.idea/
+
+# Data
+*.sqlite3
+*.h5
